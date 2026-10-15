@@ -2,7 +2,7 @@
 
 A Golf-Ball Case Study.
 
-**Author:** Royal Shih, National Central University
+**Author:** Huang-Chia Shih, Department of Information Management, National Central University
 
 **Project page:** https://prof-shih.github.io/fmtot/
 
